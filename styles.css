@@ -30,7 +30,12 @@ body {
     margin: 0 auto;
     padding: 2rem;
 }
-
+/* 
+╭━━━━━╮  
+┃ ● ━ ●┃   
+┃▼ ︿ ▼┃   
+╰━ ━━ ━╯  
+*/
 header {
     padding: 4rem 2rem;
     text-align: center;
@@ -121,6 +126,12 @@ footer {
         padding: 1rem;
     }
 }
+/* 
+╭━━━━━╮  
+┃ ● ━ ●┃   
+┃▼ ︿ ▼┃   
+╰━ ━━ ━╯  
+*/
 
 /* Tablet */
 @media screen and (min-width: 769px) and (max-width: 1024px) {
@@ -166,3 +177,9 @@ footer {
         width: 100%;
     }
 }
+/* 
+╭━━━━━╮  
+┃ ● ━ ●┃   
+┃▼ ︿ ▼┃   
+╰━ ━━ ━╯  
+*/
